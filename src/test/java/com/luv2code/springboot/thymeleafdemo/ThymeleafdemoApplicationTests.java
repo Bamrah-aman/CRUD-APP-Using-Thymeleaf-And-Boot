@@ -11,6 +11,7 @@ public class ThymeleafdemoApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("Helo worl test");
 	}
 
 }
